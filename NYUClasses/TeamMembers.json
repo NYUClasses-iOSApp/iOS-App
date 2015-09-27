@@ -1,0 +1,36 @@
+{
+    "team" : [
+              {
+              "name":"Programming for Big Data Analytics",
+              "prof_name": "Suzanne McIntosh",
+              "prof_email": "mcintosh@cs.nyu.edu",
+              "about": "This course introduces the architectures and technologies at the foundation of the Big Data movement. These technologies have facilitated scalable management and processing of vast quantities of data collected through realtime and near realtime sensing. We explore tools enabling the acquisition of data in the social domain and the fusion of those data when in flight and at rest. The material covered in this course aligns with the prevailing state of the art in Big Data technologies, which continues to be a rapidly evolving landscape as new technologies emerge and existing ones evolve and mature.",
+              "image":"SM.jpg",
+              "timing": "Timing:- Wednesday, 6:00pm - 8:30pm"
+              },
+              {
+              "name":"Mobile Application Programming in iOS",
+              "prof_name": "Kevin Kim",
+              "prof_email": "kykim@nyu.edu",
+              "about": "It is structured to teach iOS app development step by step, starting with basic concepts like Objective-C syntax, memory management and the model-view-controller pattern (MVC). Further lectures cover topics like UI elements, database access or iCloud integration. Besides actual programming, the course also describes the XCode IDE and techniques like testing, debugging, profiling and source code management.",
+              "image":"kk.jpeg",
+              "timing": "Timing:- Monday, 6:00pm - 8:30pm"
+              },
+              {
+              "name":"Modern CyptoGraphy",
+              "prof_name": "Giovanni Di Crescenzo",
+              "prof_email": "gdc258@nyu.edu",
+              "about": "This course examines Modern Cryptography from a both theoretical and applied perspective, with emphasis on provable security and application case studies. The course looks particularly at cryptographic primitives that are building blocks of various cryptographic applications. The course studies notions of security for a given cryptographic primitive, its various constructions and respective security analysis based on the security notion. The cryptographic primitives covered include pseudorandom functions, symmetric encryption (block ciphers), hash functions and random oracles, message authentication codes, asymmetric encryption, digital signatures and authenticated key exchange. The course covers how to build provably secure cryptographic protocols (e.g., secure message transmission, identification schemes, secure function evaluation, etc.), and various number-theoretic assumptions upon which cryptography is based. Also covered: implementation issues (e.g., key lengths, key management, standards, etc.) and, as application case studies, a number of real-life scenarios currently using solutions from modern cryptography. | Prerequisite: Graduate standing.",
+              "image":"gdc.png",
+              "timing": "Timing:- Thurday, 6:00pm - 8:30pm"
+              },
+              {
+              "name":"Network Security",
+              "prof_name": "Nasir Memon",
+              "prof_email": "memon@nyu.edu",
+              "about": "This course begins by covering attacks and threats in computer networks, including network mapping, port scanning, sniffing, DoS, DDoS, reflection attacks, attacks on DNS and leveraging P2P deployments for attacks. The course continues with cryptography topics most relevant to secure networking protocols.",
+              "image":"nm.jpeg",
+              "timing": "Timing:- Friday, 1:00pm - 3:30pm"
+              }
+            ]
+}

@@ -1,0 +1,1102 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-61605.8940203675" y="-9613.888665126538" width="108481.31344870798" height="26470.28050427783"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="25_115600375" type="button" x="29240.992102510132" y="13316.237061393564" r="0" s="8.850386944394328" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="0_24309637" type="button" x="-57279.14036812247" y="1584.3691404342362" r="0" s="10.816884130612587" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="6_115625584" type="image" x="-57281.7" y="491.0500000000002" r="0" s="2.997161984849192">
+      <source w="1800" h="666">2870548978<url>2870548978.jpg</url></source>
+      <sourceUrl>nyu_logo.jpg</sourceUrl>
+    <resource><id>2870548978</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/4/e/1e106df13f2af3d6f87e63e4f91dc2a501f60.jpg</url></resource></object>
+    <object id="12_4" type="text" x="-57282.45" y="1928.950000000001" r="0" s="33.787198496722105" class="head">
+      <height>32.68359375</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text color="3288169" weight="bold"><![CDATA[NYU CLASSES]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="0_24309637"/>
+      </layout>
+    </object>
+    <object id="2" type="button" x="-29877.1497306765" y="-6907.094086276074" r="0" s="19.994799147695364" class="circle">
+      <type>circle</type>
+      <size>
+        <w>115</w>
+        <h>115</h>
+      </size>
+    </object>
+    <object id="7" type="button" x="-19488.06569120269" y="-8500.618788207152" r="0" s="1.7655119893340037" class="circle">
+      <type>circle</type>
+      <size>
+        <w>1228.8</w>
+        <h>1228.8</h>
+      </size>
+    </object>
+    <object id="0_115600375" type="text" x="-57400.74450839034" y="3492.2999999999997" r="0" s="13.759372387466929" class="body">
+      <height>32.68359375</height>
+      <width>-129.5390625</width>
+      <p>
+        <text style="italic"><![CDATA[Presented By]]></text>
+      </p>
+    </object>
+    <object id="1_115600375" type="text" x="-57483.44918976512" y="4413.980276225263" r="0" s="13.759372387466929" class="body">
+      <height>98.05078125</height>
+      <width>-198.4453125</width>
+      <p align="center">
+        <text><![CDATA[Vijeth Pai]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Mayur Kale]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Gaurav Mukherjee]]></text>
+      </p>
+    </object>
+    <object id="11_115600375" type="image" x="-19488.476629460503" y="-8495.257730361356" r="0" s="1.4073573252615397">
+      <source w="750" h="1334">2869549669<mask x="0" y="128" w="738" h="1206"/>
+      <url>2869549669.png</url></source>
+      <sourceUrl>iOS Simulator Screen Shot Dec 14, 2014, 7.05.03 PM.png</sourceUrl>
+    <resource><id>2869549669</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/b/9/12c8309eaaee1b97cb739912576f8117000d1.png</url></resource></object>
+    <object id="21_115600375" type="button" x="-16019.481397789012" y="-6121.418321460808" r="0" s="17.83448444884947" class="circle">
+      <type>circle</type>
+      <size>
+        <w>115</w>
+        <h>115</h>
+      </size>
+    </object>
+    <object id="32_115600375" type="image" x="-16019.548582411127" y="-6121.44215221839" r="0" s="1.1573803766469886">
+      <source w="750" h="1334">2869605727<url>2869605727.png</url></source>
+      <sourceUrl>iOS Simulator Screen Shot Dec 14, 2014, 7.27.43 PM.png</sourceUrl>
+    <resource><id>2869605727</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/a/5/6ff37648b69924b136beb4e094741ea2176bb.png</url></resource></object>
+    <object id="34_115600375" type="button" x="-31398.02727583097" y="9264.980570656831" r="0" s="22.62526295916673" class="circle">
+      <type>circle</type>
+      <size>
+        <w>115</w>
+        <h>115</h>
+      </size>
+    </object>
+    <object id="33_115600375" type="image" x="-31398.400000000005" y="9265.1" r="0" s="1.4836733592858615">
+      <source w="750" h="1334">2869605730<url>2869605730.png</url></source>
+      <sourceUrl>iOS Simulator Screen Shot Dec 14, 2014, 7.28.53 PM.png</sourceUrl>
+    <resource><id>2869605730</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/7/c/49458bf8daa8f7d273e4850e77a02a4141f87.png</url></resource></object>
+    <object id="26_115600375" type="button" x="-23156.32473384912" y="-8500.391119869462" r="0" s="18.78924739960818" class="circle">
+      <type>circle</type>
+      <size>
+        <w>115</w>
+        <h>115</h>
+      </size>
+    </object>
+    <object id="10_115600375" type="image" x="-23156.251599292005" y="-8500.390308541802" r="0" s="1.1844816663857445">
+      <source w="750" h="1334">2869549657<url>2869549657.png</url></source>
+      <sourceUrl>iOS Simulator Screen Shot Dec 14, 2014, 7.03.35 PM.png</sourceUrl>
+    <resource><id>2869549657</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/3/6/1c37ac86d30481835d1328ef3d3d1906bda98.png</url></resource></object>
+    <object id="18_115600375" type="button" x="-26576.236677137535" y="-8499.279475287916" r="0" s="19.384507649367357" class="circle">
+      <type>circle</type>
+      <size>
+        <w>115</w>
+        <h>115</h>
+      </size>
+    </object>
+    <object id="12_115600375" type="image" x="-26576.12701066133" y="-8499.39394718707" r="0" s="1.2115248244758705">
+      <source w="750" h="1334">2869549672<url>2869549672.png</url></source>
+      <sourceUrl>iOS Simulator Screen Shot Dec 7, 2014, 2.30.59 AM.png</sourceUrl>
+    <resource><id>2869549672</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/2/b/53b94f02cb6394f293f23f5385938d650349b.png</url></resource></object>
+    <object id="13_115600375" type="image" x="-29877.05489951954" y="-6907.283748590001" r="0" s="1.306279255746274">
+      <source w="750" h="1334">2869549684<url>2869549684.png</url></source>
+      <sourceUrl>iOS Simulator Screen Shot Dec 14, 2014, 6.56.52 PM.png</sourceUrl>
+    <resource><id>2869549684</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/8/c/1652f0bd32a0fdf2455b8d349a780b4d2e3c9.png</url></resource></object>
+    <object id="24_115600375" type="button" x="-17993.904652154033" y="8718.810037839608" r="0" s="20.18310656151184" class="circle">
+      <type>circle</type>
+      <size>
+        <w>115</w>
+        <h>115</h>
+      </size>
+    </object>
+    <object id="15_115600375" type="image" x="-17965.79154488144" y="8704.271545221489" r="0" s="1.268266560675965">
+      <source w="750" h="1334">2869549696<url>2869549696.png</url></source>
+      <sourceUrl>iOS Simulator Screen Shot Dec 14, 2014, 7.09.04 PM.png</sourceUrl>
+    <resource><id>2869549696</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/5/d/deda7473d66b6945606ac5c78109bfaee549c.png</url></resource></object>
+    <object id="28_115600375" type="button" x="-40417.4" y="1584" r="0" s="10.870921989892588" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1228.8</w>
+        <h>1228.8</h>
+      </size>
+    </object>
+    <object id="38_115600375" type="button" x="-40345.81319809219" y="2245.34650199115" r="0" s="17.041086304860105" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>600.7620213609509</w>
+        <h>332.890428752288</h>
+      </size>
+    </object>
+    <object id="39_115600375" type="text" x="-40545.65" y="2328.8" r="0" s="12.730319182190616" class="body">
+      <height>424.88671875</height>
+      <width>742.7481393914475</width>
+      <p align="justify">
+        <text><![CDATA[NYU Classes (v1.0) takes interactive teaching and learning mobile, giving students and instructors access to their courses, content and organizations on a iPhone device. ]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[NYU Classes enriches the course experience in native mobile applications that are developed specifically for the iPhone (iOS).]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[This app is easier to use and also more flexible than the existing mobile website. It is more solid and precise and has additional features from the existing web app.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Features like notifications, course evaluation, profile and class rosters are notable features of the application.]]></text>
+      </p>
+    </object>
+    <object id="40_115600375" type="button" x="-22080.590016210368" y="991.0269590033716" r="0" s="13.0239691916701" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>809.5536159399961</w>
+        <h>607.165211954997</h>
+      </size>
+    </object>
+    <object id="84_115600375" type="image" x="-25799.95432873783" y="369.2900044951606" r="0" s="5.835938271144856">
+      <source w="265" h="268">2870015731<url>2870015731.png</url></source>
+      <sourceUrl>141816493423204.png</sourceUrl>
+    <resource><id>2870015731</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/a/2/57731f6cc04d7f36113f1cf88fe041a0ed625.png</url></resource></object>
+    <object id="86_115600375" type="image" x="-23247.300000000003" y="370.5499999999995" r="0" s="2.704606565983326">
+      <source w="512" h="512">2870015740<url>2870015740.png</url></source>
+      <sourceUrl>discussion.png</sourceUrl>
+    <resource><id>2870015740</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/b/b/5eee1319199c289af90f15626ca35dd0e9a6c.png</url></resource></object>
+    <object id="41_115600375" type="text" x="-22081.15" y="-1119.4" r="0" s="29.467458414033725" class="head">
+      <height>32.68359375</height>
+      <width>-105.046875</width>
+      <p>
+        <text color="1657497" weight="bold"><![CDATA[Features]]></text>
+      </p>
+    </object>
+    <object id="42_115600375" type="button" x="-23156.34618766277" y="-4637.627643671101" r="0" s="2.954983779186968" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800.0299535719635</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="43_115600375" type="text" x="-23054.38372769609" y="-5148.2800882857" r="0" s="5.3105447899310425" class="head">
+      <height>32.68359375</height>
+      <width>-130.8984375</width>
+      <p align="center">
+        <text><![CDATA[User Profile]]></text>
+      </p>
+    </object>
+    <object id="44_115600375" type="text" x="-23152.2191734287" y="-4491.805288676959" r="0" s="4.827767990846401" class="body">
+      <height>130.734375</height>
+      <width>448.9923580338317</width>
+      <p align="justify">
+        <text><![CDATA[This feature displays the student details with profile picture, preferred nicknames, contact information, personal website, linkedin and other relevant information.]]></text>
+      </p>
+    </object>
+    <object id="65_115600375" type="button" x="-23244.260795317277" y="8718.20336897677" r="0" s="3.900827593123066" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="51_115600375" type="image" x="-23958.55562228697" y="7942.943487818687" r="0" s="1.208980353331649">
+      <source w="256" h="256">2869690885<url>2869690885.png</url></source>
+      <sourceUrl>announcement-icon.png</sourceUrl>
+    <resource><id>2869690885</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/b/1/e80d0a961d016a03e61daa5f75735442c93cc.png</url></resource></object>
+    <object id="62_115600375" type="button" x="-27270.550000000003" y="12581.7" r="0" s="3.0960925368758287" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>495.8546452165009</h>
+      </size>
+    </object>
+    <object id="56_115600375" type="image" x="-27981.65026206296" y="11965.1" r="0" s="0.5582593262137479">
+      <source w="376" h="396">2869690906<url>2869690906.png</url></source>
+      <sourceUrl>Evaluation.png</sourceUrl>
+    <resource><id>2869690906</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/d/1/fc8c0581d596a8e8c563e3a2cfce5603948ba.png</url></resource></object>
+    <object id="58_115600375" type="button" x="-27693.13281950157" y="-4635.551716936008" r="0" s="2.943554965093115" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="59_115600375" type="image" x="-28010.943424522186" y="-5236.197025804852" r="0" s="0.8217002659616794">
+      <source w="265" h="268">2869690894<url>2869690894.png</url></source>
+      <sourceUrl>141816493423204.png</sourceUrl>
+    <resource><id>2869690894</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/3/0/abe4cb4cc74c6d72ecc27b796d06ab3199a07.png</url></resource></object>
+    <object id="60_115600375" type="text" x="-27612.036855480554" y="-5210.695404419319" r="0" s="5.3105447899310425" class="head">
+      <height>32.68359375</height>
+      <width>-90.52734375</width>
+      <p>
+        <text><![CDATA[Courses]]></text>
+      </p>
+    </object>
+    <object id="85_115600375" type="image" x="-18051.7" y="370.25" r="0" s="4.172626644361206">
+      <source w="300" h="300">2870015737<url>2870015737.png</url></source>
+      <sourceUrl>event.png</sourceUrl>
+    <resource><id>2870015737</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/b/b/e003788f0ab248da2171c6f0119fd2af2b4c7.png</url></resource></object>
+    <object id="61_115600375" type="text" x="-27684.370420598236" y="-4458.046757332561" r="0" s="5.3105447899310425" class="body">
+      <height>228.78515625</height>
+      <width>401.0703125</width>
+      <p align="justify">
+        <text><![CDATA[This module contains the course description, the number of credits for the course, course schedule for the semester and the class timings. Also includes the details of the Professor under whom the student has taken the course.]]></text>
+      </p>
+    </object>
+    <object id="63_115600375" type="text" x="-27187.989343207755" y="11957.887201470863" r="0" s="5.31054478993104" class="head">
+      <height>32.68359375</height>
+      <width>-213.3984375</width>
+      <p>
+        <text><![CDATA[Course Evaluations]]></text>
+      </p>
+    </object>
+    <object id="64_115600375" type="text" x="-27248.9318037264" y="12594.122031727093" r="0" s="4.827767990846401" class="body">
+      <height>196.1015625</height>
+      <width>501.670764806813</width>
+      <p>
+        <text><![CDATA[Course Evaluations provide much needed feedback about the course and the Professor.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[The Course evaluations are submitted as anonymous and the student identity is not revealed.]]></text>
+      </p>
+    </object>
+    <object id="66_115600375" type="text" x="-23018.615747193107" y="7933.40317708084" r="0" s="7.434762705903456" class="head">
+      <height>32.68359375</height>
+      <width>-183.9375</width>
+      <p>
+        <text><![CDATA[Announcements]]></text>
+      </p>
+    </object>
+    <object id="67_115600375" type="text" x="-23218.647137188407" y="8932.424510662922" r="0" s="5.585847262136333" class="body">
+      <height>261.46875</height>
+      <width>509.970808276996</width>
+      <p align="justify">
+        <text><![CDATA[Assignment due? Class cancelled? Office hours extended? ]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[This is the place where instructors go to post the news students need to know now. Students have instant, on-the-go access to the latest announcements, and instructors can post announcements from anywhere, anytime.]]></text>
+      </p>
+    </object>
+    <object id="68_115600375" type="button" x="-18824.751212600368" y="-4636.115736950277" r="0" s="3.4570456487241294" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>503.0023411512375</h>
+      </size>
+    </object>
+    <object id="69_115600375" type="image" x="-19499.82766629639" y="-5205.928199535084" r="0" s="0.604490176665824">
+      <source w="512" h="512">2869690897<url>2869690897.png</url></source>
+      <sourceUrl>discussion.png</sourceUrl>
+    <resource><id>2869690897</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/3/1/07de7db87e8b543f52e189f99d7606d2ba0a8.png</url></resource></object>
+    <object id="70_115600375" type="text" x="-18557.467487223326" y="-5208.877234505299" r="0" s="6.758875187184961" class="head">
+      <height>32.68359375</height>
+      <width>-196.8046875</width>
+      <p>
+        <text><![CDATA[Group Discussion]]></text>
+      </p>
+    </object>
+    <object id="71_115600375" type="text" x="-18794.02591774435" y="-4406.194293387977" r="0" s="4.336849237404853" class="body">
+      <height>228.78515625</height>
+      <width>552</width>
+      <p align="justify">
+        <text><![CDATA[The Discussion Board is a key communication tool for engaging students and promoting learning. It is the place students ask and answer questions, and where instructors can respond to one student for the benefit of all. With Mobile Learn, instructors and students can review and post to threaded discussions, as well as create new.]]></text>
+      </p>
+    </object>
+    <object id="72_115600375" type="button" x="-11871.95" y="-8501.65" r="0" s="3.2843280312919396" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="73_115600375" type="text" x="-11793.87892353269" y="-9142.54355558766" r="0" s="5.4189232550316735" class="head">
+      <height>32.68359375</height>
+      <width>-73.48828125</width>
+      <p>
+        <text><![CDATA[Events]]></text>
+      </p>
+    </object>
+    <object id="74_115600375" type="image" x="-12184.712792733444" y="-9166.081847105525" r="0" s="0.8190328935410712">
+      <source w="300" h="300">2869690903<url>2869690903.png</url></source>
+      <sourceUrl>event.png</sourceUrl>
+    <resource><id>2869690903</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/a/b/d6f1ca436729d32d4964b139422302a5f9630.png</url></resource></object>
+    <object id="82_115600375" type="image" x="-20520.27567684648" y="370.7332007982051" r="0" s="5.143114624426457">
+      <source w="256" h="256">2870015725<url>2870015725.png</url></source>
+      <sourceUrl>announcement-icon.png</sourceUrl>
+    <resource><id>2870015725</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/5/1/fc350311aba6f27cfbc6619d596a58253935c.png</url></resource></object>
+    <object id="75_115600375" type="text" x="-11850.575057220529" y="-8359.334948369275" r="0" s="4.381129346153989" class="body">
+      <height>261.46875</height>
+      <width>552</width>
+      <p align="justify">
+        <text><![CDATA[Students can keep up to date with all the activities, events, training session and shows inside the school as well as the University.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[This module lists all the events on a timeline and pushes notifications hours before the event is due, to remind the students and promote active participation.]]></text>
+      </p>
+    </object>
+    <object id="77_115600375" type="image" x="-23594.333369212323" y="-5149.962452279699" r="0" s="0.7477024809386081">
+      <source w="225" h="225">2869789906<url>2869789906.gif</url></source>
+      <sourceUrl>imageedit_1_6447509378.gif</sourceUrl>
+    <resource><id>2869789906</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/0/9/4a7ae7f387f7c8978af62f636af477d0aacd8.gif</url></resource></object>
+    <object id="4_115600375" type="button" x="-7186.305970835432" y="1371.6784863711218" r="0" s="13.0239691916701" class="circle">
+      <type>circle</type>
+      <size>
+        <w>600</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="5_115600375" type="text" x="-7193.7" y="1463.95" r="0" s="29.467458414033697" class="head">
+      <height>98.05078125</height>
+      <width>230.196875</width>
+      <p align="center">
+        <text color="3288169" weight="bold"><![CDATA[Implementation]]></text>
+      </p>
+      <p align="center">
+        <text color="3288169" weight="bold"><![CDATA[&]]></text>
+      </p>
+      <p align="center">
+        <text color="3288169" weight="bold"><![CDATA[Architecture]]></text>
+      </p>
+    </object>
+    <object id="45_115600375" type="text" x="-40610.86615089321" y="-2200.5440249643784" r="0" s="44.723988333525014" class="head">
+      <height>32.68359375</height>
+      <width>230.196875</width>
+      <p align="center">
+        <text><![CDATA[Description]]></text>
+      </p>
+    </object>
+    <object id="46_115600375" type="button" x="6160.199943139921" y="1371.3863259724944" r="0" s="9.152956248025088" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="47_115600375" type="text" x="6065.179123862945" y="-484.9335715792939" r="0" s="29.73905082361383" class="head">
+      <height>32.68359375</height>
+      <width>-121.6171875</width>
+      <p>
+        <text><![CDATA[Challenges]]></text>
+      </p>
+    </object>
+    <object id="48_115600375" type="button" x="6160.109810241526" y="1680.8203911429407" r="0" s="3.739590621866104" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1466.4635321148317</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="49_115600375" type="text" x="6181.698713555504" y="1698.0424174966613" r="0" s="6.887306126925746" class="body">
+      <height>359.51953125</height>
+      <width>735.7445312499999</width>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[The foremost technical challenges developing this app was getting used to the Swift and Xcode and Git. Being a relatively new language, it was hard to find the manuals and guides online. ]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Collaborating the work from various team members and merging them in Git also cost a lot of time.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Setting up a server using cakePHP (open source web framework) and implementing JSON files to implement the dynamic data was a major part of the project.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Deciding the UI design was also one of the important parts of the project. A lot of thought and time was spent in choosing the correct views, controllers and features.]]></text>
+      </p>
+    </object>
+    <object id="50_115600375" type="button" x="17750.02937494098" y="1371.5858456932062" r="0" s="8.994069693572165" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="52_115600375" type="button" x="17736.168186509934" y="1498.3561148192323" r="0" s="6.884735958595169" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>459.25965265496694</h>
+      </size>
+    </object>
+    <object id="53_115600375" type="text" x="17767.04110324946" y="1502.348828119249" r="0" s="7.232529561961503" class="body">
+      <height>392.203125</height>
+      <width>694.6000000000001</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Integrate app with NYU Classes servers and receive live data and user authentication.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Features from NYU Albert such as browsing courses.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Course registrations, tuition fee payment (with a secure payment gateway).]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Other additional features such as setting up appointment with professors, live chat with other students, in-app email capability.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Media - Students can access lecture videos and images uploaded by their instructors and experience directly from their mobile devices using the appropriate software specific to the media type.]]></text>
+      </p>
+    </object>
+    <object id="54_115600375" type="text" x="17735.209850708976" y="-556.1745332745446" r="0" s="19.84606111802236" class="head">
+      <height>32.68359375</height>
+      <width>-246.48046875</width>
+      <p>
+        <text><![CDATA[Next Version Features]]></text>
+      </p>
+    </object>
+    <object id="81_115600375" type="image" x="-25823.75" y="2507.3" r="0" s="3.6458161314102857">
+      <source w="376" h="396">2870015722<url>2870015722.png</url></source>
+      <sourceUrl>Evaluation.png</sourceUrl>
+    <resource><id>2870015722</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/0/d/26f757b1f2298138f1dcfe42ca6f5795b290b.png</url></resource></object>
+    <object id="2_115600375" type="button" x="-11891.2" y="7115.3" r="0" s="5.555854270309615" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>865.2465787243098</w>
+        <h>601.6623346060514</h>
+      </size>
+    </object>
+    <object id="6_115600375" type="text" x="-11797.379600605584" y="5812.9922915037205" r="0" s="13.50868709189378" class="head">
+      <height>32.68359375</height>
+      <width>-151.1015625</width>
+      <p>
+        <text color="3288169" weight="bold"><![CDATA[Architecture]]></text>
+      </p>
+    </object>
+    <object id="7_115600375" type="button" x="-7185.106752993443" y="-3977.475514345699" r="0" s="3.195682065285254" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>803.3830403087418</w>
+        <h>460.9047642469432</h>
+      </size>
+    </object>
+    <object id="9_115600375" type="image" x="-7190.8" y="-3749.45" r="0" s="1.401936939253653">
+      <source w="1800" h="545">2870389012<url>2870389012.png</url></source>
+      <sourceUrl>milestone.png</sourceUrl>
+    <resource><id>2870389012</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/a/5/dd5ba9831f782f22ae455f15d2f276836ef7e.png</url></resource></object>
+    <object id="8_115600375" type="text" x="-7136.477565246262" y="-4341.90000363283" r="0" s="13.508687091893782" class="head">
+      <height>32.68359375</height>
+      <width>-103.5703125</width>
+      <p>
+        <text color="3288169" weight="bold"><![CDATA[Timeline]]></text>
+      </p>
+    </object>
+    <object id="17_115600375" type="button" x="-2903.611917585154" y="6775.702864379658" r="0" s="5.788405742199025" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>528.9470802925473</w>
+        <h>407.7126520299006</h>
+      </size>
+    </object>
+    <object id="19_115600375" type="text" x="-2912.8269550226114" y="5735.093807407246" r="0" s="9.226615048079898" class="head">
+      <height>32.68359375</height>
+      <width>358.30532906202023</width>
+      <p align="center">
+        <text color="3288169" weight="bold"><![CDATA[Database & ER Diagram]]></text>
+      </p>
+    </object>
+    <object id="20_115600375" type="image" x="-2897.5124658424256" y="6947.536095121891" r="0" s="1.766786389229669">
+      <source w="1800" h="1390">2873307868<mask x="41" y="208" w="1725" h="1134"/>
+      <url>2873307868.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/a/f/c/7312b469e21a9f62fe5513837c136800adc95.png</sourceUrl>
+    <resource><id>2873307868</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/f/c/7312b469e21a9f62fe5513837c136800adc95.png</url></resource></object>
+    <object id="22_115600375" type="button" x="29271.504750902062" y="1370.4870613935625" r="0" s="8.796682536618812" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="23_115600375" type="text" x="29239.2" y="1293.9" r="0" s="65.6679350570275" class="head">
+      <height>32.68359375</height>
+      <width>-70.37109375</width>
+      <p>
+        <text color="5974240" weight="bold"><![CDATA[Demo]]></text>
+      </p>
+    </object>
+    <object id="27_115600375" type="text" x="29244.60000000001" y="13270.000000000002" r="0" s="37.067837380156526" class="head">
+      <height>32.68359375</height>
+      <width>-130.08984375</width>
+      <p>
+        <text color="16711680"><![CDATA[Questions ?]]></text>
+      </p>
+    </object>
+    <object id="29_115600375" type="button" x="43383.15" y="1370.2" r="0" s="8.730673570851183" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="30_115600375" type="text" x="43286.97540797296" y="1455.7895825479245" r="0" s="39.5863802919985" class="head">
+      <height>32.68359375</height>
+      <width>-133.53515625</width>
+      <p>
+        <text color="3288169" weight="bold"><![CDATA[Thank You!]]></text>
+      </p>
+    </object>
+    <object id="0_115625584" type="text" x="-25780.15" y="1264.0139459282232" r="0" s="13.74678682617014" class="strong">
+      <height>27.9375</height>
+      <width>-101.14453125</width>
+      <p>
+        <text color="0" weight="bold"><![CDATA[Courses]]></text>
+      </p>
+    </object>
+    <object id="1_115625584" type="text" x="-23247.8" y="1258.0499999999995" r="0" s="13.74678682617014" class="strong">
+      <height>27.9375</height>
+      <width>-144.4921875</width>
+      <p>
+        <text color="0" weight="bold"><![CDATA[Discussion]]></text>
+      </p>
+    </object>
+    <object id="2_115625584" type="text" x="-18052.25" y="1257.95" r="0" s="13.74678682617014" class="strong">
+      <height>27.9375</height>
+      <width>-86.6953125</width>
+      <p>
+        <text color="0" weight="bold"><![CDATA[Events]]></text>
+      </p>
+    </object>
+    <object id="3_115625584" type="text" x="-20520.55" y="1257.95" r="0" s="13.74678682617014" class="strong">
+      <height>27.9375</height>
+      <width>-173.390625</width>
+      <p>
+        <text color="0" weight="bold"><![CDATA[Announcement]]></text>
+      </p>
+    </object>
+    <object id="4_115625584" type="text" x="-25738.049999999996" y="3387.2139459282243" r="0" s="13.74678682617014" class="strong">
+      <height>27.9375</height>
+      <width>-144.4921875</width>
+      <p>
+        <text color="0" weight="bold"><![CDATA[Evaluation]]></text>
+      </p>
+    </object>
+    <object id="2_115624129" type="image" x="-23247.000000000004" y="2507.05" r="0" s="2.702591168048831">
+      <source w="512" h="512">2872704370<url>2872704370.png</url></source>
+      <sourceUrl>imageedit_1_6611278075.png</sourceUrl>
+    <resource><id>2872704370</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/7/5/721cd73d534e98dbccfcbce79d6f0f559e55a.png</url></resource></object>
+    <object id="5_115625584" type="text" x="-23247.55" y="3387.2999999999997" r="0" s="13.74678682617014" class="strong">
+      <height>27.9375</height>
+      <width>-101.14453125</width>
+      <p>
+        <text color="0" weight="bold"><![CDATA[Profile]]></text>
+      </p>
+    </object>
+    <object id="5_115624129" type="image" x="-18051.7" y="2467.7" r="0" s="2.5537301820706064">
+      <source w="500" h="500">2872844584<url>2872844584.png</url></source>
+      <sourceUrl>customer-service-icon.png</sourceUrl>
+    <resource><id>2872844584</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/2/f/920b155afe55808c58cc8dfe67c12a2d64a41.png</url></resource></object>
+    <object id="6_115624129" type="text" x="-18052.25" y="3404.7" r="0" s="13.74678682617014" class="strong">
+      <height>27.9375</height>
+      <width>-115.59375</width>
+      <p>
+        <text color="0" weight="bold"><![CDATA[Helpline]]></text>
+      </p>
+    </object>
+    <object id="7_115624129" type="image" x="-20519.95" y="2468.2" r="0" s="2.645241789678768">
+      <source w="500" h="500">2872855828<url>2872855828.png</url></source>
+      <sourceUrl>imageedit_3_6322595130.png</sourceUrl>
+    <resource><id>2872855828</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/4/b/ac178a4c6e49edc4f57da2feda15f19773576.png</url></resource></object>
+    <object id="8_115624129" type="text" x="-20520.55" y="3387.3" r="0" s="13.74678682617014" class="strong">
+      <height>27.9375</height>
+      <width>-86.6953125</width>
+      <p>
+        <text color="0" weight="bold"><![CDATA[Roster]]></text>
+      </p>
+    </object>
+    <object id="1_115624129" type="image" x="-11880.475473311835" y="7507.9" r="0" s="4.98106752663575">
+      <source w="925" h="485">2873175508<mask x="0" y="0" w="923" h="485"/>
+      <url>2873175508.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/f/2/0/a97ac72e89e2b95b473842599c538007f37c7.png</sourceUrl>
+    <resource><id>2873175508</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/2/0/a97ac72e89e2b95b473842599c538007f37c7.png</url></resource></object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="0_24309637"/>
+    </s>
+    <s>
+      <eagle o="28_115600375"/>
+    </s>
+    <s>
+      <eagle o="38_115600375"/>
+    </s>
+    <s>
+      <eagle o="4_115600375"/>
+    </s>
+    <s>
+      <eagle o="2_115600375"/>
+    </s>
+    <s>
+      <eagle o="17_115600375"/>
+    </s>
+    <s>
+      <eagle o="7_115600375"/>
+    </s>
+    <s>
+      <eagle o="40_115600375"/>
+    </s>
+    <s>
+      <eagle o="11_115600375"/>
+    </s>
+    <s>
+      <eagle o="10_115600375"/>
+    </s>
+    <s>
+      <eagle o="42_115600375"/>
+    </s>
+    <s>
+      <eagle o="12_115600375"/>
+    </s>
+    <s>
+      <eagle o="58_115600375"/>
+    </s>
+    <s>
+      <eagle o="13_115600375"/>
+    </s>
+    <s>
+      <eagle o="62_115600375"/>
+    </s>
+    <s>
+      <eagle o="33_115600375"/>
+    </s>
+    <s>
+      <eagle o="65_115600375"/>
+    </s>
+    <s>
+      <eagle o="72_115600375"/>
+    </s>
+    <s>
+      <eagle o="15_115600375"/>
+    </s>
+    <s>
+      <eagle o="22_115600375"/>
+    </s>
+    <s>
+      <eagle o="46_115600375"/>
+    </s>
+    <s>
+      <eagle o="49_115600375"/>
+    </s>
+    <s>
+      <eagle o="50_115600375"/>
+    </s>
+    <s>
+      <eagle o="53_115600375"/>
+    </s>
+    <s>
+      <eagle o="25_115600375"/>
+    </s>
+    <s>
+      <eagle o="29_115600375"/>
+    </s>
+  </path>
+  <style type="text/css">
+@font-face
+{
+	src: url('OpenSans-Light.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: OpenSansLight;
+}
+
+@font-face
+{
+	src: url('OpenSans.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: OpenSans;
+}
+
+@font-face
+{
+	src: url('VeraMono.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: normal;
+	font-family: VeraMono;
+}
+
+@font-face
+{
+	src: url('OpenSans-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: OpenSansLight;
+}
+
+@font-face
+{
+	src: url('OpenSans-LightItalic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: OpenSansLight;
+}
+
+@font-face
+{
+	src: url('OpenSans-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: OpenSansLight;
+}
+
+@font-face
+{
+	src: url('OpenSans-B.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: OpenSans;
+}
+
+@font-face
+{
+	src: url('OpenSans-I.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: OpenSans;
+}
+
+@font-face
+{
+	src: url('OpenSans-BI.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: OpenSans;
+}
+
+@font-face
+{
+	src: url('VeraMono-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: VeraMono;
+}
+
+@font-face
+{
+	src: url('VeraMono-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: VeraMono;
+}
+
+@font-face
+{
+	src: url('VeraMono-Bold-Italic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: VeraMono;
+}
+
+.line1
+{
+	color: #acacac;
+	gradEndColor: #acacac;
+	gradStartColor: #acacac;
+}
+
+.line2
+{
+	color: #eee10b;
+	gradEndColor: #eee10b;
+	gradStartColor: #eee10b;
+}
+
+.line3
+{
+	color: #9fd356;
+	gradEndColor: #9fd356;
+	gradStartColor: #9fd356;
+}
+
+.line4
+{
+	color: #d04141;
+	gradEndColor: #d04141;
+	gradStartColor: #d04141;
+}
+
+.line5
+{
+	color: #000;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+.poly1
+{
+	borderColor: #9d9d9d;
+	borderThickness: 9;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly2
+{
+	borderColor: #9d9d9d;
+	gradEndColor: #9d9d9d;
+	gradStartColor: #9d9d9d;
+}
+
+.poly3
+{
+	borderColor: #9fd356;
+	borderThickness: 9;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly4
+{
+	borderColor: #9fd356;
+	gradEndColor: #9fd356;
+	gradStartColor: #9fd356;
+}
+
+.poly5
+{
+	borderColor: #000;
+	borderThickness: 9;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+Logo
+{
+	src: url('logo.png');
+	visibility: visible;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderColor: #f8981d;
+	borderThickness: 0;
+	color: #f8981d;
+	gradEndAlpha: 1;
+	gradEndColor: #f8981d;
+	gradStartAlpha: 1;
+	gradStartColor: #f8981d;
+	lockTintAlpha: 0;
+	lockTintColor: #f8981d;
+	radius: 0;
+	thickness: 7;
+}
+
+ZCircle
+{
+	borderAlpha: 1;
+	borderColor: #008080;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #008080;
+	gradStartAlpha: 1;
+	gradStartColor: #008080;
+	lockTintAlpha: 0;
+	lockTintColor: #ffffe6;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	alpha: 1;
+	color: #000;
+	thickness: 2;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 1;
+	borderColor: #88c13c;
+	gradEndAlpha: 0.6;
+	gradEndColor: #88c13c;
+	gradStartAlpha: 0.4;
+	gradStartColor: #88c13c;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.circle
+{
+	gradEndAlpha: 0.5;
+	gradEndColor: #aaa;
+	gradStartAlpha: 0.3;
+	gradStartColor: #aaa;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #aaa;
+	gradEndAlpha: 0.6;
+	gradEndColor: #aaa;
+	gradStartAlpha: 0.1;
+	gradStartColor: #aaa;
+	padding: 1.03;
+	radius: 1;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #000;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #dfdfdf;
+	background-padding: 7;
+}
+
+ZLabel.head
+{
+	color: #9fd356;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #383838;
+	background-padding: 4;
+}
+
+ZLabel.strong
+{
+	color: #aaa;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #383838;
+	background-padding: 4;
+}
+
+ZLine
+{
+	borderColor: #f8981d;
+	color: #f8981d;
+	gradEndColor: #f8981d;
+	gradStartColor: #f8981d;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.5;
+	color: #eee10b;
+	thickness: 25;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	borderColor: #f8981d;
+	borderThickness: 0;
+	color: #f8981d;
+	gradEndAlpha: 1;
+	gradEndColor: #f8981d;
+	gradStartAlpha: 1;
+	gradStartColor: #f8981d;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+</style>
+  <hash>4711ebce</hash>
+<sync><oid>m1mm2exsmhco</oid><title>nyuclasses</title><hash>4711ebce</hash></sync><config>e7XIW1S6LQfynT31iBeDQR19ljFqBqctRm5ygu4ML0OD2ZENq3YIOQp1cEnvcrga4DIK1tT+xqHr2xr5x61BMOD9yZMkbQvvU2Fqdaa2mNVlGoq4k8Uh9hL3gvjql8HYR84CDZ9nqv/CWT4RJBvnozzs8j6RIRBDgHiov3sAKod0d0W9CGe3RctU2QiNZon4CokCT7C0UyO4izRmTNYWf/sn9FYVevK+Z00aMbQf1gAh2X3VcHuqVBeV5khVptSqwhVmIfeIGgnu4j4nJBLsmHOTrrNIpmWeotJStHIe9dK6wMLr/XBzNiydhV39fwtSsRJLoygIugziq7VGXqnq3Q==</config></zuiprezi>
